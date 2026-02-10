@@ -1,0 +1,4 @@
+# Python code templates
+
+- `{template-name}.py` - Single-file templates
+- `{package-name}/` - Multi-file packages

@@ -1,0 +1,4 @@
+# Reusable prompt templates
+
+- `{use-case}-prompt.md`
+- `model-configs/` - Model configuration presets

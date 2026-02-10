@@ -1,0 +1,5 @@
+# Tool-specific documentation
+
+Each tool gets its own markdown file:
+- `{tool-name}.md` - Full documentation
+- `integration-patterns/{pattern-name}.md` - Integration examples

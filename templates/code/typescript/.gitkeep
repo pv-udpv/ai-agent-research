@@ -1,0 +1,4 @@
+# TypeScript code templates
+
+- `{template-name}.ts` - Single-file templates
+- `{package-name}/` - Multi-file packages

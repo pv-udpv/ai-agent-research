@@ -1,0 +1,5 @@
+# Performance benchmark data (JSON format)
+
+- `{tool-name}-latency.json`
+- `token-efficiency.json`
+- `success-rates.json`

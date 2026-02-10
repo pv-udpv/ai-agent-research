@@ -1,0 +1,5 @@
+# Constraint documentation
+
+- `rate-limits.md` - API rate limiting
+- `token-budgets.md` - Token consumption analysis
+- `capability-boundaries.md` - Hard limits discovered
